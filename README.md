@@ -1,18 +1,20 @@
-# <P align="center"><font color="green">ANDROID/JAVA</font></P>
+# <P align="center"><font color="green">Projeto CRUD com Spring Boot  </font></P>
 
-# <p align="center">CRUD com Spring Boot<p>
-
-# Lista de Estudates
+## 💻 Sobre o Projeto
+Uma aplicação web modelada no padrão MVC em Java e construída com o Spring Boot, o projeto conta com uma estrutura de CRUD, no qual os dados estão sendo persistidos em um banco de dados (MySQL). Na camada de visualização foi utilizado HTML, CSS, o framework Bootstrap e o template Thymeleaf.
 <br>
-## 📝 Tecnologias
+## 🛠 Tecnologias Utilizadas
 
 - Java
-- MySQL
+- Spring Boot
+- JPA / Hibernate
+- Maven
+- HTML
+- Bootstrap
 - Thymeleaf
+- MySQL
 
-## 📝 Sistema Web
-
-<p align="">CRUD completo usando MySQL como base de dados e Thymeleaf no frontend</p>
+## 🎨 Layout
 
 <br>
 
